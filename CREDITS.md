@@ -1,5 +1,5 @@
 # Credits
-Creator - [JovannMC](https://femboyfurry.net)<br/>
+Creator/Programmer - [JovannMC](https://femboyfurry.net)<br/>
 Art/design/SFX - [Cyph](cyph.codes)<br/>
 Art/music - [soafen](soafen.love)<br/>
 <br/>
